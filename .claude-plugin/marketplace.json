@@ -1,0 +1,14 @@
+{
+  "name": "prompt-tree",
+  "owner": {
+    "name": "cheolhyun-kim"
+  },
+  "description": "prompt-tree: a conversation branch tree mod for Claude Code",
+  "plugins": [
+    {
+      "name": "prompt-tree",
+      "source": "./",
+      "description": "Right-side tree of key prompts and open branches, so you can jump back to B/C after finishing A"
+    }
+  ]
+}

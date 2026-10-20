@@ -1,0 +1,11 @@
+{
+  "name": "prompt-tree",
+  "version": "0.1.0",
+  "description": "Right-side tree of key prompts and open branches, so you can jump back to B/C after finishing A",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "cheolhyun-kim",
+    "url": "https://github.com/cheolhyun-kim"
+  },
+  "repository": "https://github.com/cheolhyun-kim/prompt-tree"
+}
